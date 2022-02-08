@@ -19,7 +19,7 @@
     "@emotion/styled": "^11.6.0",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@material-ui/core": "4.11.0",
-    "@material-ui/data-grid": "4.0.0-alpha.6",
+    "@material-ui/data-grid": "4.0.0-alpha.35",
     "@styled-icons/material-outlined": "^10.34.0",
     "@types/moment": "^2.13.0",
     "axios": "^0.21.1",
